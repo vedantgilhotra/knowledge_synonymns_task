@@ -7,6 +7,7 @@ const bodyParser = require("body-parser");
 const cors = require('cors')
 const routes = require("./src/routes/ApiRouter");
 const dotenv = require('dotenv');
+const ApiController = require("./src/controllers/ApiController");
 
 dotenv.config({path: "./config.env"});
 
@@ -31,5 +32,6 @@ app.listen(app.get("port"),() =>{
     console.log("Application running on port ",app.get("port"));
 });
 
+ApiController.readCountryCodes();
 
 module.exports = app;
