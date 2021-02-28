@@ -4,4 +4,4 @@ cd ..
 cd cron
 npm install
 cd ..
-npm install pm2
+sudo npm install -g pm2
