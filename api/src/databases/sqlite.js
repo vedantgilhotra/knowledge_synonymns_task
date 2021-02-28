@@ -17,7 +17,7 @@ const userData = sequelize.define('userData', {
         type:Sequelize.STRING,
         allowNull:true,
     },
-    country_code:{
+    country:{
         type:Sequelize.STRING,
         allowNull:true,
     },

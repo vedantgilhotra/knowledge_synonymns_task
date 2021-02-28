@@ -6,8 +6,6 @@ const ApiController  = require("../controllers/ApiController");
 
 router.route("/getCountryCode").post(ApiController.getCountryCode);
 
-router.route("/readCountryCodes").get(ApiController.readCountryCodes);
-
-// router.route("/performOperation").post(ApiController.performOperation);
+router.route("/processUserInformation").post(ApiController.processUserInformation);
 
 module.exports = router;

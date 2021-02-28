@@ -3,7 +3,7 @@ const app = express();
 const dbconn = require("../databases/sqlite");
 const fs = require("fs");
 const csv = require('csv-parser');
-const constants = require("../../constants");
+const UserData = dbconn.UserData;
 
 var COUNTRY_CODES = null;
 
@@ -58,8 +58,47 @@ const getCountryCode = async (req,res) => {
     }
 }
 
+const processUserInformation = (req,res) => {
+    try {
+        var rowData = req.body.rowData;
+        if(rowData.external_code){
+            UserData.findOne({
+                where:{
+                    external_code:rowData.external_code
+                }
+            }).then(userData => {
+                if (userData != null) {
+                    userData.update(
+                        rowData,
+                        { where: { id: userData.dataValues.id } }
+                    ).then(updatedUserData => {
+                        res.status(200).json({
+                            success: true,
+                            data: "Update entry"
+                        })
+                    })
+                }
+                else{
+                    UserData.create(rowData).then(createdUserData => {
+                        res.status(200).json({
+                            success:true,
+                            data:"created new entry"
+                        })
+                    })
+                }
+            })
+        }
+    } catch (error) {
+        res.status(500).json({
+            success:false,
+            error:error,
+        })
+    }
+}
+
 
 module.exports = {
     getCountryCode,
     readCountryCodes,
+    processUserInformation,
 }
