@@ -1,0 +1,1118 @@
+Beggining to process master file for country codes 2021-02-28T13:19:31.261Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:32.151Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:33.013Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:33.895Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:34.923Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:36.143Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:37.274Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:38.107Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:38.964Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:39.779Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:40.613Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:41.418Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:42.269Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:43.114Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:44.045Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:44.973Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:46.114Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:47.114Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:48.046Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:49.087Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:50.494Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:51.628Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:52.545Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:53.686Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:54.646Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:55.515Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:56.333Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:57.156Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:57.980Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:58.827Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:19:59.755Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:20:00.591Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:20:01.452Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:20:02.330Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:20:03.186Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:20:04.023Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:20:04.855Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:20:05.675Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:20:06.521Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:20:07.360Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:20:08.181Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:20:09.147Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:20:10.307Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:20:11.350Z
+Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/vedantgilhotra/Documents/code reference/knowledge_synonymns_task/api/app.js:31:5)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Object.<anonymous> (/Users/vedantgilhotra/.npm-global/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 8888
+}
+Beggining to process master file for country codes 2021-02-28T13:20:12.330Z
+Application running on port  8888
+Executing (default): CREATE TABLE IF NOT EXISTS `userData` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `external_code` VARCHAR(255) NOT NULL, `name` VARCHAR(255) NOT NULL, `address` VARCHAR(255), `country` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+Country codes file successfully processed 2021-02-28T13:20:12.396Z
+Executing (default): PRAGMA INDEX_LIST(`userData`)
+The table userData has been created if it didn't exist already
+Beggining to process master file for country codes 2021-02-28T13:22:07.650Z
+Application running on port  8888
+Executing (default): CREATE TABLE IF NOT EXISTS `userData` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `external_code` VARCHAR(255) NOT NULL, `name` VARCHAR(255) NOT NULL, `address` VARCHAR(255), `country` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+Country codes file successfully processed 2021-02-28T13:22:07.711Z
+Executing (default): PRAGMA INDEX_LIST(`userData`)
+The table userData has been created if it didn't exist already
+country code received: IN
+Found country name for corresponding country code: India 2021-02-28T13:22:10.830Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:22:10 +0000] "POST /getCountryCode HTTP/1.1" 200 31 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:22:10.849Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user1' LIMIT 1;
+corresponding external code available 2021-02-28T13:22:10.864Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:22:10 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: US
+Found country name for corresponding country code: United States 2021-02-28T13:22:10.874Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:22:10 +0000] "POST /getCountryCode HTTP/1.1" 200 39 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:22:10.879Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:22:10.882Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:22:10 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: AF
+Found country name for corresponding country code: Afghanistan 2021-02-28T13:22:10.901Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:22:10 +0000] "POST /getCountryCode HTTP/1.1" 200 37 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:22:10.908Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:22:10.911Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:22:10 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:22:10.920Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:22:10 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:22:10.925Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:22:10 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: IN
+Found country name for corresponding country code: India 2021-02-28T13:23:00.013Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:23:00 +0000] "POST /getCountryCode HTTP/1.1" 200 31 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:23:00.022Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user1' LIMIT 1;
+corresponding external code available 2021-02-28T13:23:00.027Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:23:00 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: US
+Found country name for corresponding country code: United States 2021-02-28T13:23:00.038Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:23:00 +0000] "POST /getCountryCode HTTP/1.1" 200 39 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:23:00.046Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:23:00.049Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:23:00 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: AF
+Found country name for corresponding country code: Afghanistan 2021-02-28T13:23:00.067Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:23:00 +0000] "POST /getCountryCode HTTP/1.1" 200 37 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:23:00.077Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:23:00.082Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:23:00 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:23:00.094Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:23:00 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:23:00.102Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:23:00 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: IN
+Found country name for corresponding country code: India 2021-02-28T13:24:00.013Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:24:00 +0000] "POST /getCountryCode HTTP/1.1" 200 31 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:24:00.019Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user1' LIMIT 1;
+corresponding external code available 2021-02-28T13:24:00.022Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:24:00 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: US
+Found country name for corresponding country code: United States 2021-02-28T13:24:00.028Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:24:00 +0000] "POST /getCountryCode HTTP/1.1" 200 39 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:24:00.033Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:24:00.035Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:24:00 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: AF
+Found country name for corresponding country code: Afghanistan 2021-02-28T13:24:00.044Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:24:00 +0000] "POST /getCountryCode HTTP/1.1" 200 37 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:24:00.050Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:24:00.052Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:24:00 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:24:00.060Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:24:00 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:24:00.066Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:24:00 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+Beggining to process master file for country codes 2021-02-28T13:24:06.542Z
+Application running on port  8888
+Executing (default): CREATE TABLE IF NOT EXISTS `userData` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `external_code` VARCHAR(255) NOT NULL, `name` VARCHAR(255) NOT NULL, `address` VARCHAR(255), `country` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+Country codes file successfully processed 2021-02-28T13:24:06.608Z
+Executing (default): PRAGMA INDEX_LIST(`userData`)
+The table userData has been created if it didn't exist already
+country code received: IN
+Found country name for corresponding country code: India 2021-02-28T13:24:08.993Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:24:09 +0000] "POST /getCountryCode HTTP/1.1" 200 31 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:24:09.010Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user1' LIMIT 1;
+corresponding external code available 2021-02-28T13:24:09.021Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:24:09 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: US
+Found country name for corresponding country code: United States 2021-02-28T13:24:09.032Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:24:09 +0000] "POST /getCountryCode HTTP/1.1" 200 39 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:24:09.038Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:24:09.040Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:24:09 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: AF
+Found country name for corresponding country code: Afghanistan 2021-02-28T13:24:09.058Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:24:09 +0000] "POST /getCountryCode HTTP/1.1" 200 37 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:24:09.064Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:24:09.067Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:24:09 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:24:09.076Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:24:09 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:24:09.082Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:24:09 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+Beggining to process master file for country codes 2021-02-28T13:25:02.233Z
+Application running on port  8888
+Executing (default): CREATE TABLE IF NOT EXISTS `userData` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `external_code` VARCHAR(255) NOT NULL, `name` VARCHAR(255) NOT NULL, `address` VARCHAR(255), `country` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+Country codes file successfully processed 2021-02-28T13:25:02.315Z
+Executing (default): PRAGMA INDEX_LIST(`userData`)
+The table userData has been created if it didn't exist already
+country code received: IN
+Found country name for corresponding country code: India 2021-02-28T13:25:05.046Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:25:05 +0000] "POST /getCountryCode HTTP/1.1" 200 31 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:25:05.068Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user1' LIMIT 1;
+corresponding external code available 2021-02-28T13:25:05.079Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:25:05 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: US
+Found country name for corresponding country code: United States 2021-02-28T13:25:05.089Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:25:05 +0000] "POST /getCountryCode HTTP/1.1" 200 39 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:25:05.095Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:25:05.098Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:25:05 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: AF
+Found country name for corresponding country code: Afghanistan 2021-02-28T13:25:05.117Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:25:05 +0000] "POST /getCountryCode HTTP/1.1" 200 37 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:25:05.125Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:25:05.128Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:25:05 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:25:05.143Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:25:05 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:25:05.156Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:25:05 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: IN
+Found country name for corresponding country code: India 2021-02-28T13:26:00.015Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:00 +0000] "POST /getCountryCode HTTP/1.1" 200 31 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:26:00.027Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user1' LIMIT 1;
+corresponding external code available 2021-02-28T13:26:00.030Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:00 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: US
+Found country name for corresponding country code: United States 2021-02-28T13:26:00.043Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:00 +0000] "POST /getCountryCode HTTP/1.1" 200 39 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:26:00.049Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:26:00.053Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:00 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: AF
+Found country name for corresponding country code: Afghanistan 2021-02-28T13:26:00.069Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:00 +0000] "POST /getCountryCode HTTP/1.1" 200 37 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:26:00.079Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:26:00.083Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:00 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:26:00.096Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:00 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:26:00.103Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:00 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+Beggining to process master file for country codes 2021-02-28T13:26:20.072Z
+Application running on port  8888
+Executing (default): CREATE TABLE IF NOT EXISTS `userData` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `external_code` VARCHAR(255) NOT NULL, `name` VARCHAR(255) NOT NULL, `address` VARCHAR(255), `country` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+Country codes file successfully processed 2021-02-28T13:26:20.131Z
+Executing (default): PRAGMA INDEX_LIST(`userData`)
+The table userData has been created if it didn't exist already
+country code received: IN
+Found country name for corresponding country code: India 2021-02-28T13:26:22.553Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:22 +0000] "POST /getCountryCode HTTP/1.1" 200 31 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:26:22.569Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user1' LIMIT 1;
+corresponding external code available 2021-02-28T13:26:22.579Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:22 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: US
+Found country name for corresponding country code: United States 2021-02-28T13:26:22.588Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:22 +0000] "POST /getCountryCode HTTP/1.1" 200 39 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:26:22.593Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:26:22.595Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:22 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: AF
+Found country name for corresponding country code: Afghanistan 2021-02-28T13:26:22.616Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:22 +0000] "POST /getCountryCode HTTP/1.1" 200 37 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:26:22.622Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:26:22.625Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:22 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:26:22.634Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:22 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:26:22.639Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:22 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+Beggining to process master file for country codes 2021-02-28T13:26:29.741Z
+Application running on port  8888
+Executing (default): CREATE TABLE IF NOT EXISTS `userData` (`id` INTEGER PRIMARY KEY AUTOINCREMENT, `external_code` VARCHAR(255) NOT NULL, `name` VARCHAR(255) NOT NULL, `address` VARCHAR(255), `country` VARCHAR(255), `createdAt` DATETIME NOT NULL, `updatedAt` DATETIME NOT NULL);
+Country codes file successfully processed 2021-02-28T13:26:29.797Z
+Executing (default): PRAGMA INDEX_LIST(`userData`)
+The table userData has been created if it didn't exist already
+country code received: IN
+Found country name for corresponding country code: India 2021-02-28T13:26:32.235Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:32 +0000] "POST /getCountryCode HTTP/1.1" 200 31 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:26:32.261Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user1' LIMIT 1;
+corresponding external code available 2021-02-28T13:26:32.272Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:32 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: US
+Found country name for corresponding country code: United States 2021-02-28T13:26:32.286Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:32 +0000] "POST /getCountryCode HTTP/1.1" 200 39 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:26:32.294Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:26:32.297Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:32 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: AF
+Found country name for corresponding country code: Afghanistan 2021-02-28T13:26:32.318Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:32 +0000] "POST /getCountryCode HTTP/1.1" 200 37 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:26:32.326Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:26:32.328Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:32 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:26:32.341Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:32 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:26:32.350Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:26:32 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: IN
+Found country name for corresponding country code: India 2021-02-28T13:27:00.016Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:27:00 +0000] "POST /getCountryCode HTTP/1.1" 200 31 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:27:00.025Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user1' LIMIT 1;
+corresponding external code available 2021-02-28T13:27:00.029Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:27:00 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: US
+Found country name for corresponding country code: United States 2021-02-28T13:27:00.040Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:27:00 +0000] "POST /getCountryCode HTTP/1.1" 200 39 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:27:00.049Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:27:00.052Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:27:00 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: AF
+Found country name for corresponding country code: Afghanistan 2021-02-28T13:27:00.071Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:27:00 +0000] "POST /getCountryCode HTTP/1.1" 200 37 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:27:00.078Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:27:00.081Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:27:00 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:27:00.093Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:27:00 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:27:00.101Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:27:00 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: IN
+Found country name for corresponding country code: India 2021-02-28T13:28:00.010Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:28:00 +0000] "POST /getCountryCode HTTP/1.1" 200 31 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:28:00.015Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user1' LIMIT 1;
+corresponding external code available 2021-02-28T13:28:00.018Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:28:00 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: US
+Found country name for corresponding country code: United States 2021-02-28T13:28:00.024Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:28:00 +0000] "POST /getCountryCode HTTP/1.1" 200 39 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:28:00.028Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:28:00.030Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:28:00 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: AF
+Found country name for corresponding country code: Afghanistan 2021-02-28T13:28:00.039Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:28:00 +0000] "POST /getCountryCode HTTP/1.1" 200 37 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+user information received: [object Object] 2021-02-28T13:28:00.044Z
+Executing (default): SELECT `id`, `external_code`, `name`, `address`, `country`, `createdAt`, `updatedAt` FROM `userData` AS `userData` WHERE `userData`.`external_code` = 'user2' LIMIT 1;
+corresponding external code available 2021-02-28T13:28:00.046Z
+Executing (default): UPDATE `userData` SET `name`=$1,`address`=$2,`country`=$3,`updatedAt`=$4 WHERE `id` = $5
+::ffff:127.0.0.1 - - [28/Feb/2021:13:28:00 +0000] "POST /processUserInformation HTTP/1.1" 200 38 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:28:00.054Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:28:00 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"
+country code received: 
+invalid entry without country_code 2021-02-28T13:28:00.059Z
+::ffff:127.0.0.1 - - [28/Feb/2021:13:28:00 +0000] "POST /getCountryCode HTTP/1.1" 200 61 "-" "node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"

@@ -11,7 +11,7 @@ const ApiController = require("./src/controllers/ApiController");
 
 dotenv.config({path: "./config.env"});
 
-app.use(logger("dev"));
+app.use(logger("combined"));
 
 app.use(compression()); 
 

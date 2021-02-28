@@ -9,6 +9,11 @@ var entries = [];
 
 app = express();
 
+const addDate = () => {
+  var d =new Date();
+  return d.toISOString();
+}
+
 const getCountryName = (country_code) => {
   return new Promise((resolve, reject) => {
     var requestOptions = {
@@ -62,19 +67,20 @@ const processUserInformation = (rowData) => {
 }
 
 const readData = () => {
-  console.log('running task now');
+  console.log('running cron task now.'+` ${addDate()}`);
   fs.createReadStream('sample-csv.csv')
     .pipe(csv())
     .on('data', (row) => {
       entries.push(row);
     })
     .on('end', () => {
-      console.log('CSV file successfully processed');
+      console.log('CSV file successfully processed'+` ${addDate()}`);
       processGatheredData();
     });
 }
 
 const processGatheredData = async () => {
+  console.log("Processing information gathered"+` ${addDate()}`);
   while(entries.length > 0){
     try {
       await processEntry(entries[0]);
@@ -83,23 +89,25 @@ const processGatheredData = async () => {
     }
     entries.splice(0,1);
   }
+  console.log("Completed processing of gathered data"+` ${addDate()}`);
 }
 
 const processEntry = (row) => {
   return new Promise((resolve,reject) => {
+    console.log(`At ${addDate()} initiating processing for entry:`,row);
     getCountryName(row.country_code).then(result => {
-      console.log("country is:", result);
+      console.log("country is:", result +` ${addDate()}`);
       row.country = result;
       delete row.country_code
       processUserInformation(row).then(result => {
-        console.log(result);
+        console.log(result+` ${addDate()}`);
         resolve("success");
       }).catch(error => {
-        console.log(error);
+        console.log(error+` ${addDate()}`);
         reject("failure");
       })
     }).catch(error => {
-      console.log(error);
+      console.log(error+` ${addDate()}`);
       reject("failure");
     })
   })
