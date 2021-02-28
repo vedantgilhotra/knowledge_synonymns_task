@@ -21,4 +21,4 @@ Once after the setup for the project via installation of dependencies has been d
 To be able to do so, the user shall copy paste the under mentioned command in their terminal.
 ### sh start-project.sh 
 
-#### The logs for the execution of these processes can be found under their respective directories as api > app.log  &&  cron > app.log
+#### The logs for the execution of these processes can be found under their respective directories as api > app.log and cron > app.log
