@@ -22,3 +22,8 @@ To be able to do so, the user shall copy paste the under mentioned command in th
 ### sh start-project.sh 
 
 #### The logs for the execution of these processes can be found under their respective directories as api > middleware.log and cron > middleware.log
+
+## STOP PROCESSING
+
+### To be able to stop the processing of the projects to keep going, one shall copy and paste the command below to accomplish the same:
+### pm2 delete all
