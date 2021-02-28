@@ -25,5 +25,5 @@ To be able to do so, the user shall copy paste the under mentioned command in th
 
 ## STOP PROCESSING
 
-### To be able to stop the processing of the projects to keep going, one shall copy and paste the command below to accomplish the same:
+To be able to stop the processing of the projects to keep going, one shall copy and paste the command below to accomplish the same:
 ### pm2 delete all
